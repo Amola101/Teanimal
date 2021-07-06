@@ -1,0 +1,59 @@
+
+.filter{
+  background-color: #cfd7c791; 
+
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+
+  padding: 20px;
+}
+
+.f{
+  background-color: #cfd7c7;
+  padding: 10px;
+  widows: 300px;
+}
+
+.filter h3{
+  margin-bottom: 5px;
+}
+
+/* Animals Style */
+  
+.ctem{
+
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+
+  padding: 10px;
+}
+
+.c{
+  width: 250px;
+  text-align: center; 
+}
+
+.c img {
+  width: 250px;
+  padding: 10px;
+}
+
+.c button{
+  background-color:#f6f7f3;
+
+  border-color: #264d5a;
+  border-style: solid;
+  border-width: 2px;
+
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.c a{
+  font-size: 20px;
+  text-decoration: none;
+  color: #264d5a;
+
+}
